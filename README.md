@@ -1,2 +1,2 @@
-# ea_calculator
-ea_calculator_description
+# EA_calculator
+Description for EA_calculator
